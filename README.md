@@ -2,8 +2,7 @@
 The repository of the Point Of Sale Application: EasyShop, a personal project used by some retailers
 
 
-EasyTech & Co “beyond imagination”
-1
+
 Easy Shop
 Introduction
 EasyShop est une application de Gestion Commerciale accessible à tous, développée par la société
@@ -42,6 +41,8 @@ EasyTech & Co “beyond imagination”
 2
 Quelques interfaces de l’application
  Le Login : permet de connecter les utilisateurs à l’application
+![image](https://github.com/user-attachments/assets/9e848923-bd04-42a1-9787-8861e2c78312)
+
  L’interface de gestion des articles
 EasyTech & Co “beyond imagination”
 3
