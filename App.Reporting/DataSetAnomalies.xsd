@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetAnomalies" targetNamespace="http://tempuri.org/DataSetAnomalies.xsd" xmlns:mstns="http://tempuri.org/DataSetAnomalies.xsd" xmlns="http://tempuri.org/DataSetAnomalies.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetAnomalies" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DataSetAnomalies" msprop:Generator_UserDSName="DataSetAnomalies" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AnomaliesInventaire" msprop:Generator_UserTableName="AnomaliesInventaire" msprop:Generator_RowDeletedName="AnomaliesInventaireRowDeleted" msprop:Generator_TableClassName="AnomaliesInventaireDataTable" msprop:Generator_RowChangedName="AnomaliesInventaireRowChanged" msprop:Generator_RowClassName="AnomaliesInventaireRow" msprop:Generator_RowChangingName="AnomaliesInventaireRowChanging" msprop:Generator_RowEvArgName="AnomaliesInventaireRowChangeEvent" msprop:Generator_RowEvHandlerName="AnomaliesInventaireRowChangeEventHandler" msprop:Generator_TablePropName="AnomaliesInventaire" msprop:Generator_TableVarName="tableAnomaliesInventaire" msprop:Generator_RowDeletingName="AnomaliesInventaireRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Designation" msprop:Generator_UserColumnName="Designation" msprop:Generator_ColumnPropNameInRow="Designation" msprop:Generator_ColumnVarNameInTable="columnDesignation" msprop:Generator_ColumnPropNameInTable="DesignationColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QteEnStock" msprop:Generator_UserColumnName="QteEnStock" msprop:Generator_ColumnPropNameInRow="QteEnStock" msprop:Generator_ColumnVarNameInTable="columnQteEnStock" msprop:Generator_ColumnPropNameInTable="QteEnStockColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QteComptee" msprop:Generator_UserColumnName="QteComptee" msprop:Generator_ColumnPropNameInRow="QteComptee" msprop:Generator_ColumnVarNameInTable="columnQteComptee" msprop:Generator_ColumnPropNameInTable="QteCompteeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Ecart" msprop:Generator_UserColumnName="Ecart" msprop:Generator_ColumnPropNameInRow="Ecart" msprop:Generator_ColumnVarNameInTable="columnEcart" msprop:Generator_ColumnPropNameInTable="EcartColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DateInventaire" msprop:Generator_UserTableName="DateInventaire" msprop:Generator_RowDeletedName="DateInventaireRowDeleted" msprop:Generator_TableClassName="DateInventaireDataTable" msprop:Generator_RowChangedName="DateInventaireRowChanged" msprop:Generator_RowClassName="DateInventaireRow" msprop:Generator_RowChangingName="DateInventaireRowChanging" msprop:Generator_RowEvArgName="DateInventaireRowChangeEvent" msprop:Generator_RowEvHandlerName="DateInventaireRowChangeEventHandler" msprop:Generator_TablePropName="DateInventaire" msprop:Generator_TableVarName="tableDateInventaire" msprop:Generator_RowDeletingName="DateInventaireRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DateInv" msprop:Generator_UserColumnName="DateInv" msprop:Generator_ColumnPropNameInRow="DateInv" msprop:Generator_ColumnVarNameInTable="columnDateInv" msprop:Generator_ColumnPropNameInTable="DateInvColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

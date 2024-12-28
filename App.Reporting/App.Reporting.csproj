@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="2.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{09860925-4989-4303-AE0A-447690E8612B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App.Reporting</RootNamespace>
+    <AssemblyName>Reporting</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.Design.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.WebDesign.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.WinForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppReportManager.cs" />
+    <Compile Include="DataSetAnomalies.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetAnomalies.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetArticle.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetArticle.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetCommande.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCommande.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetFacture.cs">
+      <DependentUpon>DataSetFacture.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetFacture.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetFacture.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetStatistiques.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetStatistiques.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetValeurStock.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetValeurStock.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormShowAnomalies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShowAnomalies.Designer.cs">
+      <DependentUpon>FormShowAnomalies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormShowArticle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShowArticle.Designer.cs">
+      <DependentUpon>FormShowArticle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormShowCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShowCommande.Designer.cs">
+      <DependentUpon>FormShowCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormShowFacture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShowFacture.Designer.cs">
+      <DependentUpon>FormShowFacture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormShowReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShowReport.Designer.cs">
+      <DependentUpon>FormShowReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormShowStatistiques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShowStatistiques.Designer.cs">
+      <DependentUpon>FormShowStatistiques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="FormShowAnomalies.resx">
+      <DependentUpon>FormShowAnomalies.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShowArticle.resx">
+      <DependentUpon>FormShowArticle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShowCommande.resx">
+      <DependentUpon>FormShowCommande.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShowFacture.resx">
+      <DependentUpon>FormShowFacture.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShowReport.resx">
+      <DependentUpon>FormShowReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShowStatistiques.resx">
+      <DependentUpon>FormShowStatistiques.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportAnomalieInventaire.rdlc" />
+    <EmbeddedResource Include="ReportArticle.rdlc" />
+    <EmbeddedResource Include="ReportDetailCommande.rdlc" />
+    <EmbeddedResource Include="ReportFacture.rdlc" />
+    <EmbeddedResource Include="ReportStatistiques.rdlc" />
+    <EmbeddedResource Include="ReportValeurStock.rdlc" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="DataSetAnomalies.xsc">
+      <DependentUpon>DataSetAnomalies.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetAnomalies.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetAnomalies.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetAnomalies.xss">
+      <DependentUpon>DataSetAnomalies.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetArticle.xsc">
+      <DependentUpon>DataSetArticle.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetArticle.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetArticle.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetArticle.xss">
+      <DependentUpon>DataSetArticle.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCommande.xsc">
+      <DependentUpon>DataSetCommande.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetCommande.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCommande.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetCommande.xss">
+      <DependentUpon>DataSetCommande.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetFacture.xsc">
+      <DependentUpon>DataSetFacture.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetFacture.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetFacture.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetFacture.xss">
+      <DependentUpon>DataSetFacture.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetStatistiques.xsc">
+      <DependentUpon>DataSetStatistiques.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetStatistiques.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetStatistiques.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetStatistiques.xss">
+      <DependentUpon>DataSetStatistiques.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetValeurStock.xsc">
+      <DependentUpon>DataSetValeurStock.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetValeurStock.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetValeurStock.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetValeurStock.xss">
+      <DependentUpon>DataSetValeurStock.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\App.DataAccess\App.DataAccess.csproj">
+      <Project>{4eb63539-9e05-4371-8645-6f6781a2db94}</Project>
+      <Name>App.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App.Tools\App.Tools.csproj">
+      <Project>{15BE2701-CCB6-48DD-9FCD-4E039CD65CAC}</Project>
+      <Name>App.Tools</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

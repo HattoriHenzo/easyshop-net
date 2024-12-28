@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="13.2" version="13.2" Modules="simple" RootPath="." Language="en" Id="{287651B2-F72C-4E06-9601-5E519F7E5DA5}">
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
+    <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
+    <ROW Property="ALLUSERS" Value="1"/>
+    <ROW Property="ARPCOMMENTS" Value="This installer database contains the logic and data required to install [|ProductName]." ValueLocId="*"/>
+    <ROW Property="ARPURLINFOABOUT" Value="www.easytech.com"/>
+    <ROW Property="Manufacturer" Value="EasyTech"/>
+    <ROW Property="ProductCode" Value="1033:{E491ECBF-A90F-44AC-A815-937B9F1E3584} " Type="16"/>
+    <ROW Property="ProductLanguage" Value="1033"/>
+    <ROW Property="ProductName" Value="EasyShop"/>
+    <ROW Property="ProductVersion" Value="1.0.0" Type="32"/>
+    <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
+    <ROW Property="UpgradeCode" Value="{9CB5F5AB-E375-40A5-84F6-AD071F01BE72}"/>
+    <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsType9XDisplay" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40Display" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT50" MultiBuildValue="DefaultBuild:Windows 2000" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT50Display" MultiBuildValue="DefaultBuild:Windows 2000" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT5X" MultiBuildValue="DefaultBuild:Windows XP/2003 RTM, Windows XP/2003 SP1, Windows XP SP2 x86" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT5XDisplay" MultiBuildValue="DefaultBuild:Windows XP/2003 RTM, Windows XP/2003 SP1, Windows XP SP2 x86" ValueLocId="-"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiDirsComponent">
+    <ROW Directory="APPDIR" Directory_Parent="TARGETDIR" DefaultDir="APPDIR:." IsPseudoRoot="1"/>
+    <ROW Directory="DesktopFolder" Directory_Parent="TARGETDIR" DefaultDir="DESKTO~1|DesktopFolder" IsPseudoRoot="1"/>
+    <ROW Directory="ProgramMenuFolder" Directory_Parent="TARGETDIR" DefaultDir="PROGRA~1|ProgramMenuFolder" IsPseudoRoot="1"/>
+    <ROW Directory="TARGETDIR" DefaultDir="SourceDir"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCompsComponent">
+    <ROW Component="AppReporting.exe" ComponentId="{9E203131-9213-4CC1-B3C4-2BAD4D0CC2CF}" Directory_="APPDIR" Attributes="0" KeyPath="AppReporting.exe"/>
+    <ROW Component="BusinessLogicLayerLib.dll" ComponentId="{58A7337B-081C-4B85-B01C-9517836E9F19}" Directory_="APPDIR" Attributes="0" KeyPath="BusinessLogicLayerLib.dll"/>
+    <ROW Component="BusinessObjectLib.dll" ComponentId="{3E9D9429-5817-47B0-A175-E59D4B9C8913}" Directory_="APPDIR" Attributes="0" KeyPath="BusinessObjectLib.dll"/>
+    <ROW Component="DataAccessLayerLib.dll" ComponentId="{4BE240A1-39D6-4134-BB6F-86ECFB7B356A}" Directory_="APPDIR" Attributes="0" KeyPath="DataAccessLayerLib.dll"/>
+    <ROW Component="GestionBoutique.exe" ComponentId="{14995A35-87CE-4DB1-9D0C-7CE9325A9114}" Directory_="APPDIR" Attributes="0" KeyPath="GestionBoutique.exe"/>
+    <ROW Component="GestionBoutique.vshost.exe" ComponentId="{35C46F13-9B2C-416E-8472-AFC927249491}" Directory_="APPDIR" Attributes="0" KeyPath="GestionBoutique.vshost.exe"/>
+    <ROW Component="Microsoft.ReportViewer.WinForms.dll" ComponentId="{73D05DF0-7AE6-45AB-B927-261815AFAC74}" Directory_="APPDIR" Attributes="0" KeyPath="Microsoft.ReportViewer.WinForms.dll"/>
+    <ROW Component="Microsoft.SqlServer.Types.dll" ComponentId="{3C0F398C-9E77-4F08-BFEE-CC0842D2B90B}" Directory_="APPDIR" Attributes="0" KeyPath="Microsoft.SqlServer.Types.dll"/>
+    <ROW Component="ProductInformation" ComponentId="{4AB10282-C10F-442F-BF93-D37DA26BBD06}" Directory_="APPDIR" Attributes="4" KeyPath="Version"/>
+    <ROW Component="ToolsLib.dll" ComponentId="{835B7552-ABC8-4800-A34A-D6B766C1FAD0}" Directory_="APPDIR" Attributes="0" KeyPath="ToolsLib.dll"/>
+    <ROW Component="business.ico" ComponentId="{877DCBF5-EAB8-493A-82BE-F7AE55A2DB32}" Directory_="APPDIR" Attributes="0" KeyPath="business.ico" Type="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatsComponent">
+    <ROW Feature="MainFeature" Title="MainFeature" Description="Description" Display="1" Level="1" Directory_="APPDIR" Attributes="0" Components="AppReporting.exe BusinessLogicLayerLib.dll BusinessObjectLib.dll DataAccessLayerLib.dll GestionBoutique.exe GestionBoutique.vshost.exe Microsoft.ReportViewer.WinForms.dll Microsoft.SqlServer.Types.dll ProductInformation ToolsLib.dll business.ico"/>
+    <ATTRIBUTE name="CurrentFeature" value="MainFeature"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
+    <ROW File="AppReporting.exe" Component_="AppReporting.exe" FileName="APPREP~1.EXE|AppReporting.exe" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\AppReporting.exe" SelfReg="false" NextFile="AppReporting.pdb" DigSign="true"/>
+    <ROW File="AppReporting.pdb" Component_="AppReporting.exe" FileName="APPREP~1.PDB|AppReporting.pdb" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\AppReporting.pdb" SelfReg="false" NextFile="business.ico"/>
+    <ROW File="BusinessLogicLayerLib.dll" Component_="BusinessLogicLayerLib.dll" FileName="BUSINE~1.DLL|BusinessLogicLayerLib.dll" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll" SelfReg="false" NextFile="BusinessLogicLayerLib.pdb"/>
+    <ROW File="BusinessLogicLayerLib.pdb" Component_="BusinessLogicLayerLib.dll" FileName="BUSINE~1.PDB|BusinessLogicLayerLib.pdb" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb" SelfReg="false" NextFile="BusinessObjectLib.dll"/>
+    <ROW File="BusinessObjectLib.dll" Component_="BusinessObjectLib.dll" FileName="BUSINE~2.DLL|BusinessObjectLib.dll" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\BusinessObjectLib.dll" SelfReg="false" NextFile="BusinessObjectLib.pdb"/>
+    <ROW File="BusinessObjectLib.pdb" Component_="BusinessObjectLib.dll" FileName="BUSINE~2.PDB|BusinessObjectLib.pdb" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\BusinessObjectLib.pdb" SelfReg="false" NextFile="DataAccessLayerLib.dll"/>
+    <ROW File="DataAccessLayerLib.dll" Component_="DataAccessLayerLib.dll" FileName="DATAAC~1.DLL|DataAccessLayerLib.dll" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\DataAccessLayerLib.dll" SelfReg="false" NextFile="DataAccessLayerLib.pdb"/>
+    <ROW File="DataAccessLayerLib.pdb" Component_="DataAccessLayerLib.dll" FileName="DATAAC~1.PDB|DataAccessLayerLib.pdb" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb" SelfReg="false" NextFile="GestionBoutique.exe"/>
+    <ROW File="GestionBoutique.exe" Component_="GestionBoutique.exe" FileName="GESTIO~1.EXE|GestionBoutique.exe" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\GestionBoutique.exe" SelfReg="false" NextFile="GestionBoutique.exe.config" DigSign="true"/>
+    <ROW File="GestionBoutique.exe.config" Component_="business.ico" FileName="GESTIO~1.CON|GestionBoutique.exe.config" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\GestionBoutique.exe.config" SelfReg="false" NextFile="GestionBoutique.exe_Template.config"/>
+    <ROW File="GestionBoutique.exe_Template.config" Component_="business.ico" FileName="GESTIO~2.CON|GestionBoutique.exe_Template.config" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\GestionBoutique.exe_Template.config" SelfReg="false" NextFile="GestionBoutique.pdb"/>
+    <ROW File="GestionBoutique.pdb" Component_="GestionBoutique.exe" FileName="GESTIO~1.PDB|GestionBoutique.pdb" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\GestionBoutique.pdb" SelfReg="false" NextFile="GestionBoutique.vshost.exe"/>
+    <ROW File="GestionBoutique.vshost.exe" Component_="GestionBoutique.vshost.exe" FileName="GESTIO~2.EXE|GestionBoutique.vshost.exe" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\GestionBoutique.vshost.exe" SelfReg="false" NextFile="GestionBoutique.vshost.exe.Config" DigSign="true"/>
+    <ROW File="GestionBoutique.vshost.exe.Config" Component_="business.ico" FileName="GESTIO~3.CON|GestionBoutique.vshost.exe.Config" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\GestionBoutique.vshost.exe.Config" SelfReg="false" NextFile="GestionBoutique.vshost.exe.manifest"/>
+    <ROW File="GestionBoutique.vshost.exe.manifest" Component_="business.ico" FileName="GESTIO~1.MAN|GestionBoutique.vshost.exe.manifest" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\GestionBoutique.vshost.exe.manifest" SelfReg="false" NextFile="GestionBoutiqueDB.accdb"/>
+    <ROW File="GestionBoutiqueDB.accdb" Component_="business.ico" FileName="GESTIO~1.ACC|GestionBoutiqueDB.accdb" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\GestionBoutiqueDB.accdb" SelfReg="false" NextFile="Microsoft.ReportViewer.WinForms.dll"/>
+    <ROW File="Microsoft.ReportViewer.WinForms.dll" Component_="Microsoft.ReportViewer.WinForms.dll" FileName="MICROS~1.DLL|Microsoft.ReportViewer.WinForms.dll" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\Microsoft.ReportViewer.WinForms.dll" SelfReg="false" NextFile="Microsoft.SqlServer.Types.dll"/>
+    <ROW File="Microsoft.SqlServer.Types.dll" Component_="Microsoft.SqlServer.Types.dll" FileName="MICROS~2.DLL|Microsoft.SqlServer.Types.dll" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\Microsoft.SqlServer.Types.dll" SelfReg="false" NextFile="ToolsLib.dll"/>
+    <ROW File="ToolsLib.dll" Component_="ToolsLib.dll" FileName="ToolsLib.dll" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\ToolsLib.dll" SelfReg="false" NextFile="ToolsLib.pdb"/>
+    <ROW File="ToolsLib.pdb" Component_="ToolsLib.dll" FileName="ToolsLib.pdb" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\ToolsLib.pdb" SelfReg="false"/>
+    <ROW File="business.ico" Component_="business.ico" FileName="business.ico" Attributes="0" SourcePath="..\GestionBoutique\bin\Debug\business.ico" SelfReg="false" NextFile="BusinessLogicLayerLib.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BuildComponent">
+    <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" Languages="en" InstallationType="4" UseLargeSchema="true"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;ui_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.FragmentComponent">
+    <ROW Fragment="CommonUI.aip" Path="&lt;AI_FRAGS&gt;CommonUI.aip"/>
+    <ROW Fragment="FolderDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\FolderDlg.aip"/>
+    <ROW Fragment="MaintenanceTypeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceTypeDlg.aip"/>
+    <ROW Fragment="MaintenanceWelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceWelcomeDlg.aip"/>
+    <ROW Fragment="SequenceDialogs.aip" Path="&lt;AI_THEMES&gt;classic\fragments\SequenceDialogs.aip"/>
+    <ROW Fragment="Sequences.aip" Path="&lt;AI_FRAGS&gt;Sequences.aip"/>
+    <ROW Fragment="StaticUIStrings.aip" Path="&lt;AI_FRAGS&gt;StaticUIStrings.aip"/>
+    <ROW Fragment="UI.aip" Path="&lt;AI_THEMES&gt;classic\fragments\UI.aip"/>
+    <ROW Fragment="Validation.aip" Path="&lt;AI_FRAGS&gt;Validation.aip"/>
+    <ROW Fragment="VerifyRemoveDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRemoveDlg.aip"/>
+    <ROW Fragment="VerifyRepairDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRepairDlg.aip"/>
+    <ROW Fragment="WelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\WelcomeDlg.aip"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
+    <ROW Name="aicustact.dll" SourcePath="&lt;AI_CUSTACTS&gt;aicustact.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiControlEventComponent">
+    <ROW Dialog_="WelcomeDlg" Control_="Next" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="FolderDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="FolderDlg" Control_="Back" Event="NewDialog" Argument="WelcomeDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="MaintenanceWelcomeDlg" Control_="Next" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="99"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_MAINT" Ordering="198"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="202"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_INSTALL" Ordering="197"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_MAINT" Ordering="101"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="ChangeButton" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="501"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceWelcomeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RemoveButton" Event="NewDialog" Argument="VerifyRemoveDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RepairButton" Event="NewDialog" Argument="VerifyRepairDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="1"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Repair" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="399" Options="1"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Remove" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="299" Options="1"/>
+    <ROW Dialog_="PatchWelcomeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_PATCH" Ordering="201"/>
+    <ROW Dialog_="ResumeDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_RESUME" Ordering="299"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_PATCH" Ordering="199"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="PatchWelcomeDlg" Condition="AI_PATCH" Ordering="203"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCustActComponent">
+    <ROW Action="AI_DOWNGRADE" Type="19" Target="4010"/>
+    <ROW Action="AI_DpiContentScale" Type="1" Source="aicustact.dll" Target="DpiContentScale"/>
+    <ROW Action="AI_EnableDebugLog" Type="321" Source="aicustact.dll" Target="EnableDebugLog"/>
+    <ROW Action="AI_InstallModeCheck" Type="1" Source="aicustact.dll" Target="UpdateInstallMode" WithoutSeq="true"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Type="65" Source="aicustact.dll" Target="PrepareUpgrade"/>
+    <ROW Action="AI_RESTORE_LOCATION" Type="65" Source="aicustact.dll" Target="RestoreLocation"/>
+    <ROW Action="AI_ResolveKnownFolders" Type="1" Source="aicustact.dll" Target="AI_ResolveKnownFolders"/>
+    <ROW Action="AI_SHOW_LOG" Type="65" Source="aicustact.dll" Target="LaunchLogFile" WithoutSeq="true"/>
+    <ROW Action="AI_STORE_LOCATION" Type="51" Source="ARPINSTALLLOCATION" Target="[APPDIR]"/>
+    <ROW Action="SET_APPDIR" Type="307" Source="APPDIR" Target="[ProgramFilesFolder][Manufacturer]\[ProductName]"/>
+    <ROW Action="SET_SHORTCUTDIR" Type="307" Source="SHORTCUTDIR" Target="[ProgramMenuFolder][ProductName]"/>
+    <ROW Action="SET_TARGETDIR_TO_APPDIR" Type="51" Source="TARGETDIR" Target="[APPDIR]"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiIconsComponent">
+    <ROW Name="GestionBoutique.exe" SourcePath="..\GestionBoutique\bin\Debug\business.ico" Index="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
+    <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_STORE_LOCATION" Condition="(Not Installed) OR REINSTALL" Sequence="1501"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Condition="AI_UPGRADE=&quot;No&quot; AND (Not Installed)" Sequence="1399"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="52"/>
+    <ROW Action="AI_EnableDebugLog" Sequence="51"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstallUISequenceComponent">
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="53"/>
+    <ROW Action="AI_DpiContentScale" Sequence="52"/>
+    <ROW Action="AI_EnableDebugLog" Sequence="51"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiLaunchConditionsComponent">
+    <ROW Condition="(VersionNT &lt;&gt; 400)" Description="[ProductName] cannot be installed on [WindowsTypeNT40Display]." DescriptionLocId="AI.LaunchCondition.NoNT40" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="(VersionNT &lt;&gt; 500)" Description="[ProductName] cannot be installed on [WindowsTypeNT50Display]." DescriptionLocId="AI.LaunchCondition.NoNT50" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="(VersionNT64 OR ((VersionNT &lt;&gt; 501) OR (ServicePackLevel = 3))) AND ((VersionNT &lt;&gt; 502) OR (ServicePackLevel = 2))" Description="[ProductName] cannot be installed on [WindowsTypeNT5XDisplay]." DescriptionLocId="AI.LaunchCondition.NoNT5X" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="VersionNT" Description="[ProductName] cannot be installed on [WindowsType9XDisplay]." DescriptionLocId="AI.LaunchCondition.No9X" IsPredefined="true" Builds="DefaultBuild"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiRegsComponent">
+    <ROW Registry="Path" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Path" Value="[APPDIR]" Component_="ProductInformation"/>
+    <ROW Registry="Version" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Version" Value="[ProductVersion]" Component_="ProductInformation"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiShortsComponent">
+    <ROW Shortcut="EasyShop" Directory_="ProgramMenuFolder" Name="EasyShop" Component_="GestionBoutique.exe" Target="[#GestionBoutique.exe]" Hotkey="0" Icon_="GestionBoutique.exe" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
+    <ROW Shortcut="EasyShop_1" Directory_="DesktopFolder" Name="EasyShop" Component_="GestionBoutique.exe" Target="[#GestionBoutique.exe]" Hotkey="0" Icon_="GestionBoutique.exe" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiThemeComponent">
+    <ATTRIBUTE name="UsedTheme" value="classic"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiUpgradeComponent">
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="0.0.1" VersionMax="[|ProductVersion]" Attributes="257" ActionProperty="OLDPRODUCTS"/>
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="[|ProductVersion]" Attributes="2" ActionProperty="AI_NEWERPRODUCTFOUND"/>
+  </COMPONENT>
+</DOCUMENT>

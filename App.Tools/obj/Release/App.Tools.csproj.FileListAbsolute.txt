@@ -1,0 +1,6 @@
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.Tools\bin\Release\Tools.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.Tools\bin\Release\Tools.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.Tools\obj\Release\App.Tools.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.Tools\obj\Release\App.Tools.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.Tools\obj\Release\Tools.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.Tools\obj\Release\Tools.pdb

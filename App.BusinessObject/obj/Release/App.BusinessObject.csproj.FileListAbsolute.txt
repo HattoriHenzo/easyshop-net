@@ -1,0 +1,9 @@
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.BusinessObject\bin\Release\BusinessObject.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.BusinessObject\bin\Release\BusinessObject.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.BusinessObject\bin\Release\Tools.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.BusinessObject\bin\Release\Tools.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.BusinessObject\obj\Release\App.BusinessObject.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.BusinessObject\obj\Release\App.BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.BusinessObject\obj\Release\App.BusinessObject.csproj.CopyComplete
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.BusinessObject\obj\Release\BusinessObject.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.BusinessObject\obj\Release\BusinessObject.pdb

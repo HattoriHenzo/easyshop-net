@@ -1,0 +1,129 @@
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\bin\Release\AppReporting.exe
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\bin\Release\AppReporting.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\bin\Release\ToolsLib.dll
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\bin\Release\ToolsLib.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Release\ResolveAssemblyReference.cache
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.FormReport.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.Cache
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Release\RdlCompile.cache
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Release\RdlCompile.compiled
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.exe
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\bin\Release\AppReporting.exe
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\bin\Release\AppReporting.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\bin\Release\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\bin\Release\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\ResolveAssemblyReference.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowAnomalies.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowArticle.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowCommande.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.FormReport.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowStatistiques.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.Cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\RdlCompile.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\RdlCompile.compiled
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.exe
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Release\AppReporting.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\bin\Release\AppReporting.exe
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\bin\Release\AppReporting.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\bin\Release\ToolsLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\bin\Release\ToolsLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowAnomalies.resources
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowArticle.resources
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowCommande.resources
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormReport.resources
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowStatistiques.resources
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\RdlCompile.cache
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\RdlCompile.compiled
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.exe
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\bin\Release\AppReporting.exe
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\bin\Release\AppReporting.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\bin\Release\ToolsLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\bin\Release\ToolsLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowAnomalies.resources
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowArticle.resources
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowCommande.resources
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\AppReporting.FormReport.resources
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowStatistiques.resources
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\RdlCompile.cache
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\RdlCompile.compiled
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\AppReporting.exe
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\AppReporting\obj\Release\AppReporting.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\bin\Release\AppReporting.exe
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\bin\Release\AppReporting.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\bin\Release\ToolsLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\bin\Release\ToolsLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\ResolveAssemblyReference.cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowAnomalies.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowArticle.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowCommande.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormReport.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowStatistiques.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.Cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\RdlCompile.cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\RdlCompile.compiled
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.exe
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\bin\Release\AppReporting.exe
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\bin\Release\AppReporting.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\bin\Release\ToolsLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\bin\Release\ToolsLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\ResolveAssemblyReference.cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowAnomalies.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowArticle.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowCommande.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormReport.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowStatistiques.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.Cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\RdlCompile.cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\RdlCompile.compiled
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.exe
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\AppReporting\obj\Release\AppReporting.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\AppReporting.exe.config
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\AppReporting.exe
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\AppReporting.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\Microsoft.ReportViewer.Design.DLL
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\EnvDTE.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\EnvDTE80.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\stdole.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\EnvDTE.xml
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\bin\Release\EnvDTE80.xml
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.FormShowAnomalies.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.FormShowArticle.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.FormShowCommande.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.FormShowFacture.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.FormReport.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.FormShowStatistiques.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\RdlCompile.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\RdlCompile.compiled
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.csproj.CopyComplete
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.exe
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\AppReporting\obj\Release\AppReporting.pdb

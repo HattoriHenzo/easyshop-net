@@ -1,0 +1,11 @@
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\bin\Release\DataAccess.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\bin\Release\DataAccess.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\bin\Release\BusinessObject.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\bin\Release\Tools.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\bin\Release\BusinessObject.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\bin\Release\Tools.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\obj\Release\App.DataAccess.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\obj\Release\App.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\obj\Release\App.DataAccess.csproj.CopyComplete
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\obj\Release\DataAccess.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\App.DataAccess\obj\Release\DataAccess.pdb

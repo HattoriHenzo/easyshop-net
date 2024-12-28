@@ -1,0 +1,95 @@
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\ResolveAssemblyReference.cache
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.ReportAnomalieInventaire.rdlc
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.ReportArticle.rdlc
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.ReportDetailCommande.rdlc
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.ReportStatistiques.rdlc
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.ReportValeurStock.rdlc
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowAnomalies.resources
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowArticle.resources
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowCommande.resources
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormReport.resources
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowStatistiques.resources
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.Properties.Resources.resources
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.GenerateResource.Cache
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.exe
+D:\MesProjets\Gestion Boutique - Release\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Debug\AppReporting.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\bin\Release\AppReporting.exe
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\bin\Release\AppReporting.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\bin\Release\ToolsLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\bin\Release\ToolsLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportAnomalieInventaire.rdlc
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportArticle.rdlc
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportDetailCommande.rdlc
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportStatistiques.rdlc
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportValeurStock.rdlc
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowAnomalies.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowArticle.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowCommande.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.FormReport.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowStatistiques.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.Cache
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.exe
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\bin\Release\AppReporting.exe
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\bin\Release\AppReporting.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\bin\Release\ToolsLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\bin\Release\ToolsLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportAnomalieInventaire.rdlc
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportArticle.rdlc
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportDetailCommande.rdlc
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportStatistiques.rdlc
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportValeurStock.rdlc
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowAnomalies.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowArticle.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowCommande.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.FormReport.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowStatistiques.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.Cache
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.exe
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\AppReporting\obj\Release\AppReporting.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Release\AppReporting.exe
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Release\AppReporting.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Release\ToolsLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Release\ToolsLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\ResolveAssemblyReference.cache
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportAnomalieInventaire.rdlc
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportArticle.rdlc
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportDetailCommande.rdlc
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportFacture.rdlc
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportStatistiques.rdlc
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportValeurStock.rdlc
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowAnomalies.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowArticle.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowCommande.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowFacture.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormReport.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowStatistiques.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.Cache
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.exe
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Release\AppReporting.exe
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Release\AppReporting.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Release\ToolsLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Release\ToolsLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportAnomalieInventaire.rdlc
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportArticle.rdlc
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportDetailCommande.rdlc
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportFacture.rdlc
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportStatistiques.rdlc
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.ReportValeurStock.rdlc
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowAnomalies.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowArticle.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowCommande.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowFacture.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormReport.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.FormShowStatistiques.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.Properties.Resources.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.csproj.GenerateResource.Cache
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.exe
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Release\AppReporting.pdb

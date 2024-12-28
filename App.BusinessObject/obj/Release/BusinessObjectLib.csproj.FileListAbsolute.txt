@@ -1,0 +1,44 @@
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Release\BusinessObjectLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Release\BusinessObjectLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Release\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Release\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Release\BusinessObjectLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Release\BusinessObjectLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\BusinessObjectLib\bin\Release\BusinessObjectLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\BusinessObjectLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\BusinessObjectLib\bin\Release\ToolsLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\BusinessObjectLib\bin\Release\ToolsLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\BusinessObjectLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\BusinessObjectLib\obj\Release\BusinessObjectLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\BusinessObjectLib\obj\Release\BusinessObjectLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\BusinessObjectLib\bin\Release\BusinessObjectLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\BusinessObjectLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\BusinessObjectLib\bin\Release\ToolsLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\BusinessObjectLib\bin\Release\ToolsLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\BusinessObjectLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\BusinessObjectLib\obj\Release\BusinessObjectLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\BusinessObjectLib\obj\Release\BusinessObjectLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\BusinessObjectLib\bin\Release\BusinessObjectLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\BusinessObjectLib\bin\Release\BusinessObjectLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\BusinessObjectLib\bin\Release\ToolsLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\BusinessObjectLib\bin\Release\ToolsLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\BusinessObjectLib\obj\Release\ResolveAssemblyReference.cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\BusinessObjectLib\obj\Release\BusinessObjectLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\BusinessObjectLib\obj\Release\BusinessObjectLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\BusinessObjectLib\bin\Release\BusinessObjectLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\BusinessObjectLib\bin\Release\BusinessObjectLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\BusinessObjectLib\bin\Release\ToolsLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\BusinessObjectLib\bin\Release\ToolsLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\BusinessObjectLib\obj\Release\ResolveAssemblyReference.cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\BusinessObjectLib\obj\Release\BusinessObjectLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\BusinessObjectLib\obj\Release\BusinessObjectLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\BusinessObjectLib\bin\Release\BusinessObjectLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\BusinessObjectLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\BusinessObjectLib\bin\Release\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\BusinessObjectLib\bin\Release\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\BusinessObjectLib\obj\Release\BusinessObjectLib.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\BusinessObjectLib\obj\Release\BusinessObjectLib.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\BusinessObjectLib\obj\Release\BusinessObjectLib.csproj.CopyComplete
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\BusinessObjectLib\obj\Release\BusinessObjectLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\BusinessObjectLib\obj\Release\BusinessObjectLib.pdb

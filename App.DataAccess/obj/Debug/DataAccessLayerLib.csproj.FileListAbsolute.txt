@@ -1,0 +1,63 @@
+E:\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.dll
+E:\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.pdb
+E:\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.dll
+E:\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.pdb
+E:\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\ResolveAssemblyReference.cache
+E:\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.dll
+E:\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.pdb
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.dll
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.pdb
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.dll
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.dll
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.pdb
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.pdb
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.dll
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.pdb
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.dll
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.pdb
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.dll
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.dll
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.pdb
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.pdb
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.dll
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.csprojResolveAssemblyReference.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.csprojResolveAssemblyReference.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.csproj.CopyComplete
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.pdb

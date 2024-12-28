@@ -1,0 +1,74 @@
+D:\Manu\Projets\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+D:\Manu\Projets\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+D:\Manu\Projets\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Manu\Projets\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+D:\Manu\Projets\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+X:\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+X:\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+X:\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+X:\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+X:\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+L:\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+L:\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+L:\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+L:\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+L:\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+E:\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+E:\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+E:\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+E:\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+E:\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.csprojResolveAssemblyReference.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\ToolsLib\bin\Debug\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\ToolsLib\obj\Debug\ToolsLib.pdb

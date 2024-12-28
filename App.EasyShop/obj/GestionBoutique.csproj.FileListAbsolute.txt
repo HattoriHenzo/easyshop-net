@@ -1,0 +1,263 @@
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe.config
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\AppReporting.exe
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessLogicLayerLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessObjectLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\ToolsLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\DataAccessLayerLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\ToolsLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\DataAccessLayerLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\AppReporting.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessObjectLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessLogicLayerLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormAPropos.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormDisplayArticles.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormEditArticle.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormNewArticle.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormDisplayCommande.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormNewEditArticleCommande.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormNewEditCommande.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormFournisseur.FormNewEditFournisseur.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormInventaire.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormValeurStock.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormLivraison.FormLivraison.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormLogin.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormMain.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormParametre.FormParametres.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormStatistiques.FormNewEditArchiveVente.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormStatistiques.FormStats.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormDisplayUsers.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormEditUser.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormNewUser.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormVente.FormRechArticle.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormVente.FormVentes.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.Properties.Resources.resources
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.csproj.GenerateResource.Cache
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.exe
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe.config
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\AppReporting.exe
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessLogicLayerLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessObjectLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\ToolsLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\DataAccessLayerLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\ToolsLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\DataAccessLayerLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\AppReporting.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessObjectLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessLogicLayerLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormAPropos.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormDisplayArticles.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormEditArticle.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormNewArticle.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormDisplayCommande.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormNewEditArticleCommande.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormNewEditCommande.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormFournisseur.FormNewEditFournisseur.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormInventaire.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormValeurStock.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormLivraison.FormLivraison.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormLogin.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormMain.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormParametre.FormParametres.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormStatistiques.FormNewEditArchiveVente.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormStatistiques.FormStats.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormDisplayUsers.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormEditUser.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormNewUser.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormVente.FormRechArticle.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormVente.FormVentes.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.Properties.Resources.resources
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.csproj.GenerateResource.Cache
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.exe
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe.config
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.exe
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\AppReporting.exe
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessLogicLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessObjectLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\ToolsLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\ToolsLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\AppReporting.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessObjectLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Release\BusinessLogicLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\ResolveAssemblyReference.cache
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormAPropos.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormDisplayArticles.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormEditArticle.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormNewArticle.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormDisplayCommande.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormNewEditArticleCommande.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormNewEditCommande.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormFournisseur.FormNewEditFournisseur.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormInventaire.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormValeurStock.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormLivraison.FormLivraison.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormLogin.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormMain.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormParametre.FormParametres.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormStatistiques.FormNewEditArchiveVente.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormStatistiques.FormStats.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormDisplayUsers.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormEditUser.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormNewUser.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormVente.FormRechArticle.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormVente.FormVentes.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.Properties.Resources.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.csproj.GenerateResource.Cache
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe.config
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.exe
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\BusinessObjectLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\BusinessObjectLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormAPropos.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewEditArticleCommande.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewEditCommande.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewEditFournisseur.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormValeurStock.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormNewEditArchiveVente.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormRechArticle.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe.config
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\AppReporting.exe
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\BusinessLogicLayerLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\BusinessObjectLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\ToolsLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\ToolsLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\AppReporting.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\BusinessObjectLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\BusinessLogicLayerLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\ResolveAssemblyReference.cache
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormAPropos.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormDisplayArticles.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormStockDate.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormDisplayCommande.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormNewEditArticleCommande.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormNewEditCommande.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormFournisseur.FormNewEditFournisseur.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormInventaire.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormValeurStock.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormLivraison.FormLivraison.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormLogin.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormMain.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormParametre.FormParametres.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormStatistiques.FormNewEditArchiveVente.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormStatistiques.FormStats.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormDisplayUsers.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormEditUser.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormNewUser.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormVente.FormRechArticle.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormVente.FormVentes.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.Properties.Resources.resources
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.csproj.GenerateResource.Cache
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.exe
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormNewEditArticle.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe.config
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.exe
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\AppReporting.exe
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\BusinessLogicLayerLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\BusinessObjectLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\ToolsLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\DataAccessLayerLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\ToolsLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\DataAccessLayerLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\AppReporting.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\BusinessObjectLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\BusinessLogicLayerLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormAPropos.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormDisplayArticles.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormNewEditArticle.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormStockDate.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormDisplayCommande.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormNewEditArticleCommande.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormCommande.FormNewEditCommande.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormFournisseur.FormNewEditFournisseur.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormInventaire.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormInventaire.FormValeurStock.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormLivraison.FormLivraison.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormLogin.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormMain.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormParametre.FormParametres.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormStatistiques.FormNewEditArchiveVente.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormStatistiques.FormStats.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormDisplayUsers.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormEditUser.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormUser.FormNewUser.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormVente.FormRechArticle.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormVente.FormVentes.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.Properties.Resources.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.csproj.GenerateResource.Cache
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormDepense.FormDepense.resources
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.FormArticle.FormConversion.resources
+C:\Users\adminappli\Desktop\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Release\GestionBoutique.exe.config
+C:\Users\adminappli\Desktop\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.exe
+C:\Users\adminappli\Desktop\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Release\GestionBoutique.pdb

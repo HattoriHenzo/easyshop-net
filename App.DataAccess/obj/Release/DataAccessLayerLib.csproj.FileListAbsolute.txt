@@ -1,0 +1,56 @@
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\DataAccessLayerLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\DataAccessLayerLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\DataAccessLayerLib\obj\Release\ResolveAssemblyReference.cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\DataAccessLayerLib\obj\Release\ResolveAssemblyReference.cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\bin\Release\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\obj\Release\DataAccessLayerLib.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\obj\Release\DataAccessLayerLib.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\obj\Release\DataAccessLayerLib.csproj.CopyComplete
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb

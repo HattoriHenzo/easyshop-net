@@ -1,0 +1,56 @@
+E:\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\ResolveAssemblyReference.cache
+E:\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.dll
+E:\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.pdb
+E:\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.dll
+E:\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.pdb
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.dll
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.dll
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.pdb
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.pdb
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.pdb
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.dll
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.pdb
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.dll
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.pdb
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.dll
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.pdb
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.dll
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.pdb
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.dll
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.pdb
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.dll
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.csprojResolveAssemblyReference.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.csprojResolveAssemblyReference.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\BusinessObjectLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\BusinessObjectLib\bin\Debug\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.csproj.CopyComplete
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\BusinessObjectLib\obj\Debug\BusinessObjectLib.pdb

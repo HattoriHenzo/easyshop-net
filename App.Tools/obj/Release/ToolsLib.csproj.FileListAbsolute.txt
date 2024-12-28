@@ -1,0 +1,46 @@
+L:\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ResolveAssemblyReference.cache
+L:\GestionBoutique\GestionBoutique\ToolsLib\bin\Release\ToolsLib.dll
+L:\GestionBoutique\GestionBoutique\ToolsLib\bin\Release\ToolsLib.pdb
+L:\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ToolsLib.dll
+L:\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ToolsLib.pdb
+X:\GestionBoutique\GestionBoutique\ToolsLib\bin\Release\ToolsLib.dll
+X:\GestionBoutique\GestionBoutique\ToolsLib\bin\Release\ToolsLib.pdb
+X:\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ResolveAssemblyReference.cache
+X:\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ToolsLib.dll
+X:\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ToolsLib.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\ToolsLib\bin\Release\ToolsLib.dll
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\ToolsLib\bin\Release\ToolsLib.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ResolveAssemblyReference.cache
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ToolsLib.dll
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\bin\Release\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\bin\Release\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\ToolsLib\obj\Release\ToolsLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\ToolsLib\bin\Release\ToolsLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\ToolsLib\bin\Release\ToolsLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\ToolsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\ToolsLib\obj\Release\ToolsLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique 17.02.2011\GestionBoutique\ToolsLib\obj\Release\ToolsLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\ToolsLib\bin\Release\ToolsLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\ToolsLib\bin\Release\ToolsLib.pdb
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\ToolsLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\ToolsLib\obj\Release\ToolsLib.dll
+C:\Users\Administrator\Desktop\GestionBoutique - Without Email\GestionBoutique\ToolsLib\obj\Release\ToolsLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\ToolsLib\bin\Release\ToolsLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\ToolsLib\bin\Release\ToolsLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\ToolsLib\obj\Release\ResolveAssemblyReference.cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\ToolsLib\obj\Release\ToolsLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique  31.08.2011\GestionBoutique\ToolsLib\obj\Release\ToolsLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\ToolsLib\bin\Release\ToolsLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\ToolsLib\bin\Release\ToolsLib.pdb
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\ToolsLib\obj\Release\ResolveAssemblyReference.cache
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\ToolsLib\obj\Release\ToolsLib.dll
+D:\Mes Projets\Gestion Boutique - Release\GestionBoutique 31.08.2011\GestionBoutique\ToolsLib\obj\Release\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\ToolsLib\bin\Release\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\ToolsLib\bin\Release\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\ToolsLib\obj\Release\ToolsLib.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\ToolsLib\obj\Release\ToolsLib.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\ToolsLib\obj\Release\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\easyshop-net\ToolsLib\obj\Release\ToolsLib.pdb

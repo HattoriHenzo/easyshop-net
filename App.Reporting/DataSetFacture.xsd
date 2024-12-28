@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetFacture" targetNamespace="http://tempuri.org/DataSetFacture.xsd" xmlns:mstns="http://tempuri.org/DataSetFacture.xsd" xmlns="http://tempuri.org/DataSetFacture.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetFacture" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSetFacture" msprop:Generator_DataSetName="DataSetFacture" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Vente" msprop:Generator_UserTableName="Vente" msprop:Generator_RowDeletedName="VenteRowDeleted" msprop:Generator_RowChangedName="VenteRowChanged" msprop:Generator_RowClassName="VenteRow" msprop:Generator_RowChangingName="VenteRowChanging" msprop:Generator_RowEvArgName="VenteRowChangeEvent" msprop:Generator_RowEvHandlerName="VenteRowChangeEventHandler" msprop:Generator_TableClassName="VenteDataTable" msprop:Generator_TableVarName="tableVente" msprop:Generator_RowDeletingName="VenteRowDeleting" msprop:Generator_TablePropName="Vente">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NumeroFacture" msprop:Generator_UserColumnName="NumeroFacture" msprop:Generator_ColumnPropNameInRow="NumeroFacture" msprop:Generator_ColumnVarNameInTable="columnNumeroFacture" msprop:Generator_ColumnPropNameInTable="NumeroFactureColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DateFacture" msprop:Generator_UserColumnName="DateFacture" msprop:Generator_ColumnPropNameInRow="DateFacture" msprop:Generator_ColumnVarNameInTable="columnDateFacture" msprop:Generator_ColumnPropNameInTable="DateFactureColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ArchiveVente" msprop:Generator_UserTableName="ArchiveVente" msprop:Generator_RowDeletedName="ArchiveVenteRowDeleted" msprop:Generator_RowChangedName="ArchiveVenteRowChanged" msprop:Generator_RowClassName="ArchiveVenteRow" msprop:Generator_RowChangingName="ArchiveVenteRowChanging" msprop:Generator_RowEvArgName="ArchiveVenteRowChangeEvent" msprop:Generator_RowEvHandlerName="ArchiveVenteRowChangeEventHandler" msprop:Generator_TableClassName="ArchiveVenteDataTable" msprop:Generator_TableVarName="tableArchiveVente" msprop:Generator_RowDeletingName="ArchiveVenteRowDeleting" msprop:Generator_TablePropName="ArchiveVente">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Designation" msprop:Generator_UserColumnName="Designation" msprop:Generator_ColumnPropNameInRow="Designation" msprop:Generator_ColumnVarNameInTable="columnDesignation" msprop:Generator_ColumnPropNameInTable="DesignationColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PrixVente" msprop:Generator_UserColumnName="PrixVente" msprop:Generator_ColumnPropNameInRow="PrixVente" msprop:Generator_ColumnVarNameInTable="columnPrixVente" msprop:Generator_ColumnPropNameInTable="PrixVenteColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Quantite" msprop:Generator_UserColumnName="Quantite" msprop:Generator_ColumnPropNameInRow="Quantite" msprop:Generator_ColumnVarNameInTable="columnQuantite" msprop:Generator_ColumnPropNameInTable="QuantiteColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RemisePourcentage" msprop:Generator_UserColumnName="RemisePourcentage" msprop:Generator_ColumnVarNameInTable="columnRemisePourcentage" msprop:Generator_ColumnPropNameInRow="RemisePourcentage" msprop:Generator_ColumnPropNameInTable="RemisePourcentageColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RemiseMontant" msprop:Generator_UserColumnName="RemiseMontant" msprop:Generator_ColumnPropNameInRow="RemiseMontant" msprop:Generator_ColumnVarNameInTable="columnRemiseMontant" msprop:Generator_ColumnPropNameInTable="RemiseMontantColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_UserColumnName="Total" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInTable="TotalColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

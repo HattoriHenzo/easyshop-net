@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetValeurStock" targetNamespace="http://tempuri.org/DataSetValeurStock.xsd" xmlns:mstns="http://tempuri.org/DataSetValeurStock.xsd" xmlns="http://tempuri.org/DataSetValeurStock.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetValeurStock" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSetValeurStock" msprop:Generator_DataSetName="DataSetValeurStock" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ArticleValeurStock" msprop:Generator_UserTableName="ArticleValeurStock" msprop:Generator_RowDeletedName="ArticleValeurStockRowDeleted" msprop:Generator_RowChangedName="ArticleValeurStockRowChanged" msprop:Generator_RowClassName="ArticleValeurStockRow" msprop:Generator_RowChangingName="ArticleValeurStockRowChanging" msprop:Generator_RowEvArgName="ArticleValeurStockRowChangeEvent" msprop:Generator_RowEvHandlerName="ArticleValeurStockRowChangeEventHandler" msprop:Generator_TableClassName="ArticleValeurStockDataTable" msprop:Generator_TableVarName="tableArticleValeurStock" msprop:Generator_RowDeletingName="ArticleValeurStockRowDeleting" msprop:Generator_TablePropName="ArticleValeurStock">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Designation" msprop:Generator_UserColumnName="Designation" msprop:Generator_ColumnVarNameInTable="columnDesignation" msprop:Generator_ColumnPropNameInRow="Designation" msprop:Generator_ColumnPropNameInTable="DesignationColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QteStock" msprop:Generator_UserColumnName="QteStock" msprop:Generator_ColumnVarNameInTable="columnQteStock" msprop:Generator_ColumnPropNameInRow="QteStock" msprop:Generator_ColumnPropNameInTable="QteStockColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="QteComptee" msprop:Generator_UserColumnName="QteComptee" msprop:Generator_ColumnVarNameInTable="columnQteComptee" msprop:Generator_ColumnPropNameInRow="QteComptee" msprop:Generator_ColumnPropNameInTable="QteCompteeColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="CoutSortie" msprop:Generator_UserColumnName="CoutSortie" msprop:Generator_ColumnVarNameInTable="columnCoutSortie" msprop:Generator_ColumnPropNameInRow="CoutSortie" msprop:Generator_ColumnPropNameInTable="CoutSortieColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="ValeurStock" msprop:Generator_UserColumnName="ValeurStock" msprop:Generator_ColumnVarNameInTable="columnValeurStock" msprop:Generator_ColumnPropNameInRow="ValeurStock" msprop:Generator_ColumnPropNameInTable="ValeurStockColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="DateHeureInv" msprop:Generator_UserColumnName="DateHeureInv" msprop:Generator_ColumnVarNameInTable="columnDateHeureInv" msprop:Generator_ColumnPropNameInRow="DateHeureInv" msprop:Generator_ColumnPropNameInTable="DateHeureInvColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DateInventaire" msprop:Generator_UserTableName="DateInventaire" msprop:Generator_RowDeletedName="DateInventaireRowDeleted" msprop:Generator_TableClassName="DateInventaireDataTable" msprop:Generator_RowChangedName="DateInventaireRowChanged" msprop:Generator_RowClassName="DateInventaireRow" msprop:Generator_RowChangingName="DateInventaireRowChanging" msprop:Generator_RowEvArgName="DateInventaireRowChangeEvent" msprop:Generator_RowEvHandlerName="DateInventaireRowChangeEventHandler" msprop:Generator_TablePropName="DateInventaire" msprop:Generator_TableVarName="tableDateInventaire" msprop:Generator_RowDeletingName="DateInventaireRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DateInv" msprop:Generator_UserColumnName="DateInv" msprop:Generator_ColumnPropNameInRow="DateInv" msprop:Generator_ColumnVarNameInTable="columnDateInv" msprop:Generator_ColumnPropNameInTable="DateInvColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

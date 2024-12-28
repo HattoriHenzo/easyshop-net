@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="2.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DAF73695-C7D4-4364-9558-F994B16D6BEA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App.EasyShop</RootNamespace>
+    <AssemblyName>EasyShop</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>App.EasyShop.Program</StartupObject>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAPropos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAPropos.Designer.cs">
+      <DependentUpon>FormAPropos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormArreteDeCaisse\FormArreteDeCaisse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArreteDeCaisse\FormArreteDeCaisse.Designer.cs">
+      <DependentUpon>FormArreteDeCaisse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormArticle\FormConversion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArticle\FormConversion.Designer.cs">
+      <DependentUpon>FormConversion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormArticle\FormDisplayArticles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArticle\FormDisplayArticles.Designer.cs">
+      <DependentUpon>FormDisplayArticles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormArticle\FormNewEditArticle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArticle\FormNewEditArticle.Designer.cs">
+      <DependentUpon>FormNewEditArticle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormArticle\FormStockDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArticle\FormStockDate.Designer.cs">
+      <DependentUpon>FormStockDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCommande\FormDisplayCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCommande\FormDisplayCommande.Designer.cs">
+      <DependentUpon>FormDisplayCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCommande\FormNewEditArticleCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCommande\FormNewEditArticleCommande.Designer.cs">
+      <DependentUpon>FormNewEditArticleCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCommande\FormNewEditCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCommande\FormNewEditCommande.Designer.cs">
+      <DependentUpon>FormNewEditCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDepense\FormDepense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDepense\FormDepense.Designer.cs">
+      <DependentUpon>FormDepense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEntreesSorties\FormEntreeSortie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEntreesSorties\FormEntreeSortie.Designer.cs">
+      <DependentUpon>FormEntreeSortie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFournisseur\FormDisplayFournisseurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFournisseur\FormDisplayFournisseurs.Designer.cs">
+      <DependentUpon>FormDisplayFournisseurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFournisseur\FormNewEditFournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFournisseur\FormNewEditFournisseur.Designer.cs">
+      <DependentUpon>FormNewEditFournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInventaire\FormAnomalieInventaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInventaire\FormAnomalieInventaire.Designer.cs">
+      <DependentUpon>FormAnomalieInventaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInventaire\FormInventaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInventaire\FormInventaire.Designer.cs">
+      <DependentUpon>FormInventaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInventaire\FormValeurStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInventaire\FormValeurStock.Designer.cs">
+      <DependentUpon>FormValeurStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLivraison\FormLivraison.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLivraison\FormLivraison.Designer.cs">
+      <DependentUpon>FormLivraison.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCategorie\FormCategorie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCategorie\FormCategorie.Designer.cs">
+      <DependentUpon>FormCategorie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStatistiques\FormNewEditArchiveVente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStatistiques\FormNewEditArchiveVente.Designer.cs">
+      <DependentUpon>FormNewEditArchiveVente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStatistiques\FormStats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStatistiques\FormStats.Designer.cs">
+      <DependentUpon>FormStats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser\FormDisplayUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser\FormDisplayUsers.Designer.cs">
+      <DependentUpon>FormDisplayUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser\FormEditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser\FormEditUser.Designer.cs">
+      <DependentUpon>FormEditUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser\FormNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser\FormNewUser.Designer.cs">
+      <DependentUpon>FormNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVente\FormRechArticle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVente\FormRechArticle.Designer.cs">
+      <DependentUpon>FormRechArticle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVente\FormVentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVente\FormVentes.Designer.cs">
+      <DependentUpon>FormVentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVente\RetailPrinter.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormAPropos.resx">
+      <DependentUpon>FormAPropos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormArreteDeCaisse\FormArreteDeCaisse.resx">
+      <DependentUpon>FormArreteDeCaisse.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormArticle\FormConversion.resx">
+      <DependentUpon>FormConversion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormArticle\FormDisplayArticles.resx">
+      <DependentUpon>FormDisplayArticles.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormArticle\FormNewEditArticle.resx">
+      <DependentUpon>FormNewEditArticle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormArticle\FormStockDate.resx">
+      <DependentUpon>FormStockDate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCommande\FormDisplayCommande.resx">
+      <DependentUpon>FormDisplayCommande.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCommande\FormNewEditArticleCommande.resx">
+      <DependentUpon>FormNewEditArticleCommande.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCommande\FormNewEditCommande.resx">
+      <DependentUpon>FormNewEditCommande.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDepense\FormDepense.resx">
+      <DependentUpon>FormDepense.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEntreesSorties\FormEntreeSortie.resx">
+      <DependentUpon>FormEntreeSortie.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFournisseur\FormDisplayFournisseurs.resx">
+      <DependentUpon>FormDisplayFournisseurs.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFournisseur\FormNewEditFournisseur.resx">
+      <DependentUpon>FormNewEditFournisseur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInventaire\FormAnomalieInventaire.resx">
+      <DependentUpon>FormAnomalieInventaire.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInventaire\FormInventaire.resx">
+      <DependentUpon>FormInventaire.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInventaire\FormValeurStock.resx">
+      <DependentUpon>FormValeurStock.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLivraison\FormLivraison.resx">
+      <DependentUpon>FormLivraison.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCategorie\FormCategorie.resx">
+      <DependentUpon>FormCategorie.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStatistiques\FormNewEditArchiveVente.resx">
+      <DependentUpon>FormNewEditArchiveVente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStatistiques\FormStats.resx">
+      <DependentUpon>FormStats.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser\FormDisplayUsers.resx">
+      <DependentUpon>FormDisplayUsers.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser\FormEditUser.resx">
+      <DependentUpon>FormEditUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser\FormNewUser.resx">
+      <DependentUpon>FormNewUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVente\FormRechArticle.resx">
+      <DependentUpon>FormRechArticle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVente\FormVentes.resx">
+      <DependentUpon>FormVentes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\DataAccessLayerLib.GestionBoutiqueDataSet+MotifRow.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\DataAccessLayerLib.GestionBoutiqueDataSet+DateInventaireRow.datasource" />
+    <None Include="Resources\business.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_cancel.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_remove.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_ok.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reload.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ark2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\BusinessObjectLib.ArticleBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.CategorieBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.EntreeSortieBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.UtilBO.datasource" />
+    <None Include="Resources\password.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Properties\DataSources\BusinessObjectLib.ArchiveVenteBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.ArchiveVenteBO1.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.ArreteDeCaisseBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.ArticleLivreBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.CommandeBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.CommanderBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.DateInventaireBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.DepenseBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.FournisseurBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.InventaireBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.LivraisonBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.StockDateBO.datasource" />
+    <None Include="Properties\DataSources\BusinessObjectLib.VenteBOListView.datasource" />
+    <None Include="Resources\loopnone.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\App.Reporting\App.Reporting.csproj">
+      <Project>{09860925-4989-4303-ae0a-447690e8612b}</Project>
+      <Name>App.Reporting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App.BusinessLogic\App.BusinessLogic.csproj">
+      <Project>{335d5145-eb24-4514-a77a-073c4c498442}</Project>
+      <Name>App.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App.BusinessObject\App.BusinessObject.csproj">
+      <Project>{a9c37210-6820-47e6-9280-794d5d11463b}</Project>
+      <Name>App.BusinessObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App.Tools\App.Tools.csproj">
+      <Project>{15be2701-ccb6-48dd-9fcd-4e039cd65cac}</Project>
+      <Name>App.Tools</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

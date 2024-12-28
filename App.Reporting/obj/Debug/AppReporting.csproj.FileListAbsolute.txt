@@ -1,0 +1,152 @@
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\AppReporting.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\ToolsLib.dll
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\ToolsLib.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\ResolveAssemblyReference.cache
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowAnomalies.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormReport.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.Properties.Resources.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.GenerateResource.Cache
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\RdlCompile.cache
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\RdlCompile.compiled
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.exe
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\bin\Debug\AppReporting.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\bin\Debug\ToolsLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowAnomalies.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowArticle.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowCommande.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormReport.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.Properties.Resources.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.GenerateResource.Cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.exe
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\bin\Debug\AppReporting.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\bin\Debug\ToolsLib.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowAnomalies.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowArticle.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowCommande.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormReport.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.Properties.Resources.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.GenerateResource.Cache
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.exe
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\AppReporting\obj\Debug\AppReporting.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\bin\Debug\AppReporting.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\bin\Debug\ToolsLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowAnomalies.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowArticle.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowCommande.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormReport.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\AppReporting.Properties.Resources.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.GenerateResource.Cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\AppReporting.exe
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\AppReporting\obj\Debug\AppReporting.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\AppReporting.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\ResolveAssemblyReference.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowAnomalies.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowArticle.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowCommande.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormReport.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowStatistiques.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.Properties.Resources.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.GenerateResource.Cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\RdlCompile.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\RdlCompile.compiled
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.exe
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe.config
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\AppReporting.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.csprojResolveAssemblyReference.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowAnomalies.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowArticle.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowCommande.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowFacture.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormReport.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowStatistiques.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.Properties.Resources.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.GenerateResource.Cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\RdlCompile.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\RdlCompile.compiled
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.exe
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\AppReporting\obj\Debug\AppReporting.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe.config
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\AppReporting.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.csprojResolveAssemblyReference.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowAnomalies.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowArticle.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowCommande.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowFacture.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormReport.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowStatistiques.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.Properties.Resources.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.GenerateResource.Cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\RdlCompile.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\RdlCompile.compiled
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.exe
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\AppReporting\obj\Debug\AppReporting.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe.config
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\AppReporting.exe
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\AppReporting.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\bin\Debug\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowAnomalies.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowArticle.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowCommande.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowFacture.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormReport.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.FormShowStatistiques.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.Properties.Resources.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.GenerateResource.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.csproj.CopyComplete
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.exe
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\AppReporting\obj\Debug\AppReporting.pdb

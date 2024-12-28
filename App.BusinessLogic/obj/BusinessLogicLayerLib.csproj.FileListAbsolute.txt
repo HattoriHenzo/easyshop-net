@@ -1,0 +1,66 @@
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessLogicLayerLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessLogicLayerLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessObjectLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\DataAccessLayerLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\ToolsLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\ToolsLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\DataAccessLayerLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Release\BusinessLogicLayerLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Release\BusinessLogicLayerLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessLogicLayerLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessLogicLayerLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessObjectLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\DataAccessLayerLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\ToolsLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\ToolsLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\DataAccessLayerLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Release\BusinessLogicLayerLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Release\BusinessLogicLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Debug\BusinessLogicLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Debug\BusinessLogicLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Debug\BusinessObjectLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Debug\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Debug\ToolsLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Debug\BusinessObjectLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Debug\ToolsLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Debug\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Debug\BusinessLogicLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Debug\BusinessLogicLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessLogicLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessLogicLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessObjectLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\ToolsLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessObjectLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\ToolsLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\bin\Release\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Release\ResolveAssemblyReference.cache
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Release\BusinessLogicLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\BusinessLogicLayerLib\obj\Release\BusinessLogicLayerLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessLogicLayerLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessLogicLayerLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessObjectLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\ToolsLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessObjectLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\ToolsLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\obj\Release\ResolveAssemblyReference.cache
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\obj\Release\BusinessLogicLayerLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\obj\Release\BusinessLogicLayerLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessLogicLayerLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessLogicLayerLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessObjectLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\DataAccessLayerLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\ToolsLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\ToolsLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\bin\Release\DataAccessLayerLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\obj\Release\BusinessLogicLayerLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\BusinessLogicLayerLib\obj\Release\BusinessLogicLayerLib.pdb

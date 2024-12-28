@@ -1,0 +1,54 @@
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+C:\Users\Jean SIMBA\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+C:\Users\esombugma\Desktop\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Debug\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Debug\BusinessObjectLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Debug\ToolsLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Debug\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Release\ResolveAssemblyReference.cache
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique 19.01.2013\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\obj\Release\ResolveAssemblyReference.cache
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+D:\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\DataAccessLayerLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\BusinessObjectLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\bin\Release\ToolsLib.pdb
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.dll
+C:\Users\SOMBUGMA Casimir\Projects\DotNetProjects\GestionBoutique_Bkp\GestionBoutique\DataAccessLayerLib\obj\Release\DataAccessLayerLib.pdb

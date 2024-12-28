@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Test.IntegrationTest
+build_property.ProjectDir = C:\Projects\Visual Studio\easyshop-net\Test.IntegrationTest\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

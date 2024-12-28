@@ -1,0 +1,522 @@
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+D:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.mdb
+D:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+D:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+D:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+D:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+D:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+D:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+D:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+D:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+D:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.mdb
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewCommande.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormEditFournisseur.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewFournisseur.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+D:\Manu\Projets\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+G:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+G:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+M:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+M:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+X:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.mdb
+X:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+X:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+X:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+X:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+X:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+X:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+X:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+X:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormEditCommande.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewCommande.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormEditFournisseur.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewFournisseur.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+X:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.mdb
+L:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+L:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+L:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+L:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+L:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+L:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+L:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+L:\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormEditCommande.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewCommande.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormEditFournisseur.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewFournisseur.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+L:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.exe
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormAPropos.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormEditCommande.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewCommande.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormEditFournisseur.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewFournisseur.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormValeurStock.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+L:\Projets.Laptop\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.exe
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormAPropos.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormEditCommande.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewCommande.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormEditFournisseur.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewFournisseur.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormValeurStock.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.exe
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormAPropos.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormEditCommande.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewCommande.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormEditFournisseur.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewFournisseur.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormValeurStock.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+C:\Documents and Settings\KPMG\Bureau\GestionBoutique 2\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormAPropos.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormEditCommande.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewCommande.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormEditFournisseur.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewFournisseur.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormValeurStock.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.exe
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.pdb
+C:\Documents and Settings\TOPCODER\Bureau\GestionBoutique Modif Vente\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormAPropos.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormEditCommande.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewCommande.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormEditFournisseur.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewFournisseur.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormValeurStock.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+E:\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+C:\Documents and Settings\erick\Bureau\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+E:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+C:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe.config
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.exe
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessObjectLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessObjectLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\ResolveAssemblyReference.cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormAPropos.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormEditArticle.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewArticle.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormValeurStock.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormNewEditArchiveVente.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormRechArticle.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewEditArticleCommande.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewEditCommande.resources
+D:\Projet GestionBoutique\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewEditFournisseur.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe.config
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.exe
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\BusinessObjectLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\BusinessObjectLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csprojResolveAssemblyReference.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormAPropos.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormConversion.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewEditArticle.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormStockDate.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewEditArticleCommande.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewEditCommande.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormDepense.FormDepense.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewEditFournisseur.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormValeurStock.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormNewEditArchiveVente.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormRechArticle.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe.config
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.exe
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\BusinessObjectLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\BusinessObjectLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csprojResolveAssemblyReference.cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormAPropos.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormConversion.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewEditArticle.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormStockDate.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewEditArticleCommande.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewEditCommande.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormDepense.FormDepense.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewEditFournisseur.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormValeurStock.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormNewEditArchiveVente.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormRechArticle.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.Cache
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+D:\Projets Dev\VisualStudioProjects\GestionBoutique_Bkp_20170603\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe.config
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.exe
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\GestionBoutique.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.exe
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessObjectLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.dll
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\AppReporting.exe.config
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessLogicLayerLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\BusinessObjectLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\ToolsLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\bin\Debug\DataAccessLayerLib.pdb
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csprojAssemblyReference.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormAPropos.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArreteDeCaisse.FormArreteDeCaisse.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormConversion.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormDisplayArticles.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormNewEditArticle.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormArticle.FormStockDate.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormDisplayCommande.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewEditArticleCommande.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormCommande.FormNewEditCommande.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormDepense.FormDepense.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormEntreesSorties.FormEntreeSortie.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormDisplayFournisseurs.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormFournisseur.FormNewEditFournisseur.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormAnomalieInventaire.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormInventaire.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormInventaire.FormValeurStock.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLivraison.FormLivraison.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormLogin.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormMain.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormParametre.FormParametres.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormNewEditArchiveVente.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormStatistiques.FormStats.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormDisplayUsers.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormEditUser.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormUser.FormNewUser.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormRechArticle.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.FormVente.FormVentes.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.Properties.Resources.resources
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.GenerateResource.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.csproj.CopyComplete
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.exe
+C:\Users\EmmanuelSombugma\Documents\projects\vs\GestionBoutique\GestionBoutique\GestionBoutique\obj\Debug\GestionBoutique.pdb
